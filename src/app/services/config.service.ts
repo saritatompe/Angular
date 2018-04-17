@@ -1,0 +1,2 @@
+export const API_ROOT = 'http://10.20.14.150:4000/channels/mychannel/chaincodes/loanapp/';
+export const BEARER_TOKEN = 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1MjMzODk0MTgsInVzZXJuYW1lIjoiTWlsaW5kIiwib3JnTmFtZSI6Im9yZzEiLCJpYXQiOjE1MjMzNTM0MTh9.d713Wkqz0iO2p2xmCPpOjvBgJKN5Xoro3NRj7Mzh9IU'
